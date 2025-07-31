@@ -1,29 +1,29 @@
 {
-        "nombre_comercial": "Raíz & Forma",
+        "nombre_comercial": "alba yoga",
         "portada": [
             {
-                "nombre_producto": "Hogar de Estilo",
-                "nombre_categoria": "Decoracion",
+                "nombre_producto": "gorra estampada",
+                "nombre_categoria": "accesorios",
                 "imagen": "./portada-producto-1.jpg"
             },
             {
-                "nombre_producto": "Silla Helen",
-                "nombre_categoria": "Decoracion",
+                "nombre_producto": "tote bag estampada",
+                "nombre_categoria": "accesorios",
                 "imagen": "./portada-producto-2.jpg"
             },
             {
-                "nombre_producto": "Jarron para Flores",
-                "nombre_categoria": "Decoracion",
+                "nombre_producto": "set deportivo sirena",
+                "nombre_categoria": "ropa",
                 "imagen": "./portada-producto-3.jpg"
             },
             {
-                "nombre_producto": "Huevos de Madera",
-                "nombre_categoria": "Decoracion",
+                "nombre_producto": "set deportivo cloud",
+                "nombre_categoria": "ropa",
                 "imagen": "./portada-producto-4.jpg"
             },
             {
-                "nombre_producto": "Mesa de Madera de Pino",
-                "nombre_categoria": "Mueble",
+                "nombre_producto": "set deportivo barbie",
+                "nombre_categoria": "ropa",
                 "imagen": "./portada-producto-5.jpg"
             }
         ],
