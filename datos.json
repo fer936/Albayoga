@@ -4,27 +4,27 @@
             {
                 "nombre_producto": "gorra estampada",
                 "nombre_categoria": "accesorios",
-                "imagen": "./portada-producto-1.jpg"
+                "imagen": "./IMG_1984.JPG"
             },
             {
                 "nombre_producto": "tote bag estampada",
                 "nombre_categoria": "accesorios",
-                "imagen": "./portada-producto-2.jpg"
+                "imagen": "./IMG_1985.JPG"
             },
             {
                 "nombre_producto": "set deportivo sirena",
                 "nombre_categoria": "ropa",
-                "imagen": "./portada-producto-3.jpg"
+                "imagen": "./IMG_1986.JPG"
             },
             {
                 "nombre_producto": "set deportivo cloud",
                 "nombre_categoria": "ropa",
-                "imagen": "./portada-producto-4.jpg"
+                "imagen": "./IMG_1987.JPG"
             },
             {
                 "nombre_producto": "set deportivo barbie",
                 "nombre_categoria": "ropa",
-                "imagen": "./portada-producto-5.jpg"
+                "imagen": "./IMG_1988.JPG"
             }
         ],
         "acerca_de": {
@@ -35,56 +35,56 @@
 				"nombre": "trendy chocolate",
 				"precio_anterior": "499.99",
 				"precio": "429.99",
-				"imagen": "./producto-1.jpg",
+				"imagen": "./IMG_1994.JPG",
 				"categoria": "ropa"
 			},
 			{
 				"nombre": "calming sky blue"
 				"precio_anterior": "299.99",
 				"precio": "249.99",
-				"imagen": "./producto-2.jpg",
+				"imagen": "./IMG_1992.JPG",
 				"categoria": "ropa"
 			},
 			{
 				"nombre": "butter set",
 				"precio_anterior": "89.99",
 				"precio": "74.99",
-				"imagen": "./producto-3.jpg",
+				"imagen": "./IMG_1991.JPG",
 				"categoria": "ropa"
 			},
 			{
 				"nombre": "baby pink set",
 				"precio_anterior": "599.99",
 				"precio": "519.99",
-				"imagen": "./producto-4.jpg",
+				"imagen": "./IMG_1989.JPG",
 				"categoria": "ropa"
 			},
 			{
 				"nombre": "Classy set",
 				"precio_anterior": "399.99",
 				"precio": "349.99",
-				"imagen": "./producto-5.jpg",
+				"imagen": "./IMG_1995.JPG",
 				"categoria": "ropa"
 			},
 			{
 				"nombre": "green juicy set"
 				"precio_anterior": "119.99",
 				"precio": "99.99",
-				"imagen": "./producto-6.jpg",
+				"imagen": "./IMG_1998.JPG",
 				"categoria": "ropa"
 			},
 			{
 				"nombre": "dark energy set"
 				"precio_anterior": "459.99",
 				"precio": "399.99",
-				"imagen": "./producto-7.jpg",
+				"imagen": "./IMG_1999.JPG",
 				"categoria": "ropa"
 			},
 			{
 				"nombre": "minimalista set",
 				"precio_anterior": "199.99",
 				"precio": "159.99",
-				"imagen": "./producto-8.jpg",
+				"imagen": "./IMG_1997.JPG",
 				"categoria": "ropa"
 			}
         ],
@@ -101,4 +101,5 @@
 		],
 		"descargar_catalogo_url": ""
     }
+
 
